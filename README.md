@@ -25,7 +25,7 @@
   <a href="#-prerequisites">Prerequisites</a> •
   <a href="#-troubleshooting">Troubleshooting</a> •
   <a href="#-safety">Safety</a> •
-  <a href="#-contributing">Contributing</a> •
+  <a href="#-Issues">Contributing</a> •
   <a href="#-license">License</a>
 </p>
 
