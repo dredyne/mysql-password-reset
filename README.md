@@ -29,6 +29,10 @@
   <a href="#-license">License</a>
 </p>
 
+<p align="center">
+  <img src="assets/image.png" alt="MySQL Password Reset Tool Demo">
+</p>
+
 ---
 
 ## 🚀 Quick Start
